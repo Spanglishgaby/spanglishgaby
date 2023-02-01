@@ -20,9 +20,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer, PMM and CSM from Peru.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielayuriko/)
+:mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-SpanglishGaby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielayuriko/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,9 +44,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spanglishgaby&theme=dark)](https://git.io/streak-stats)
+  <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spanglishgaby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   ---
-
-### :writing_hand: Blog Posts :
 
 
