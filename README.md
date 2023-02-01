@@ -20,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer, PMM and CSM from Peru.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer, PMP and CSM from Peru.
 
 :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-SpanglishGaby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielayuriko/)
 ---
