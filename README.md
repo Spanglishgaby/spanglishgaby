@@ -10,6 +10,9 @@
   <a href="https://twitter.com/spanglishgaby">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://dev.to/spanglishgaby">
+    <img src="https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 <h1>
   hey there
@@ -46,6 +49,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spanglishgaby&theme=dark)](https://git.io/streak-stats)
   <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spanglishgaby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <br></br>
+<img src="https://github-readme-stats.vercel.app/api?username=spanglishgaby&show_icons=true&theme=dark"/>
   ---
 
 
